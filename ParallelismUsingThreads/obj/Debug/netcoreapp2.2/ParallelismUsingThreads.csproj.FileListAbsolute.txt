@@ -1,0 +1,11 @@
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\bin\Debug\netcoreapp2.2\ParallelismUsingThreads.deps.json
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\bin\Debug\netcoreapp2.2\ParallelismUsingThreads.runtimeconfig.json
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\bin\Debug\netcoreapp2.2\ParallelismUsingThreads.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\bin\Debug\netcoreapp2.2\ParallelismUsingThreads.dll
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\bin\Debug\netcoreapp2.2\ParallelismUsingThreads.pdb
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\obj\Debug\netcoreapp2.2\ParallelismUsingThreads.csprojResolveAssemblyReference.cache
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\obj\Debug\netcoreapp2.2\ParallelismUsingThreads.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\obj\Debug\netcoreapp2.2\ParallelismUsingThreads.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\obj\Debug\netcoreapp2.2\ParallelismUsingThreads.AssemblyInfo.cs
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\obj\Debug\netcoreapp2.2\ParallelismUsingThreads.dll
+C:\Users\ysant\source\repos\ParallelismUsingThreads\ParallelismUsingThreads\obj\Debug\netcoreapp2.2\ParallelismUsingThreads.pdb
